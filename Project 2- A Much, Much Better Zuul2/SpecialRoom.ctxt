@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ description\ discovered\ itemRoom
+comment0.target=SpecialRoom(java.lang.String,\ java.lang.String,\ boolean,\ boolean)
+comment1.params=room
+comment1.target=SpecialRoom(Room)
+comment2.params=character
+comment2.target=void\ trapDoorTriggered(Character)
+comment3.params=room
+comment3.target=void\ addToArray(Room)
+comment4.params=
+comment4.target=int\ oldArraySize()
+comment5.params=choice
+comment5.target=Room\ transportRoom(int)
+numComments=6

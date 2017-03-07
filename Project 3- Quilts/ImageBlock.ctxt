@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=color\ image
+comment0.target=ImageBlock(java.awt.Color,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ImageBlock\r\n
+comment1.params=
+comment1.target=void\ paintNextBlock()
+comment2.params=
+comment2.target=void\ paintLastBlock()
+comment3.params=
+comment3.target=void\ paintOriginal()
+comment4.params=
+comment4.target=void\ chooseImage()
+comment5.params=image
+comment5.target=void\ setImage(OFImage)
+comment6.params=
+comment6.target=javax.swing.JLabel\ createLabel()
+comment7.params=g
+comment7.target=void\ paintComponent(java.awt.Graphics)
+numComments=8

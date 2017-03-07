@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DigitTestD()
+comment0.text=\r\n\ Default\ constructor\ for\ test\ class\ DigitTestD\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment10.params=
+comment10.target=void\ test8ToString()
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ test1Constructor()
+comment4.params=
+comment4.target=void\ test2Constructor()
+comment5.params=
+comment5.target=void\ test3Constructor()
+comment6.params=
+comment6.target=void\ test4SetValue()
+comment7.params=
+comment7.target=void\ test5SetValue()
+comment8.params=
+comment8.target=void\ test6SetValue()
+comment9.params=
+comment9.target=void\ test7ToString()
+numComments=11

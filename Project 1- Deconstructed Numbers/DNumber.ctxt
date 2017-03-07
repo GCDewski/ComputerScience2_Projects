@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DNumber()
+comment1.params=val
+comment1.target=DNumber(int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=b
+comment3.target=void\ add(DNumber)
+comment4.params=
+comment4.target=int\ getDecimalValue()
+comment5.params=e
+comment5.target=boolean\ equals(java.lang.Object)
+comment6.params=other
+comment6.target=int\ compareTo(java.lang.Object)
+numComments=7

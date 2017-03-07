@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=numberOfDice
+comment0.target=Dice(int)
+comment1.params=
+comment1.target=int\ rollDice()
+numComments=2

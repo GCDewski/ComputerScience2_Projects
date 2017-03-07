@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=main
+comment0.target=BlockFrame(javax.swing.JPanel)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BlockFrame-\ changes\ label\ to\ the\ number\ rep\ of\ color\ and\ creates\ menu\r\n
+comment1.params=
+comment1.target=java.awt.Dimension\ getPreferredSize()
+comment2.params=frame
+comment2.target=void\ createMenuBar(javax.swing.JFrame)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6

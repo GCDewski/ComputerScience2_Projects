@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=color
+comment0.target=ColorBlock(java.awt.Color)
+comment1.params=
+comment1.target=javax.swing.JLabel\ createLabel()
+comment2.params=
+comment2.target=void\ paintNextBlock()
+comment3.params=
+comment3.target=void\ paintLastBlock()
+comment4.params=
+comment4.target=void\ paintOriginal()
+numComments=5

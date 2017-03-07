@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=val
+comment0.target=Digit(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Digit\r\n
+comment1.params=
+comment1.target=int\ getValue()
+comment2.params=newVal
+comment2.target=int\ setValue(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=b
+comment4.target=Digit\ add(Digit)
+numComments=5

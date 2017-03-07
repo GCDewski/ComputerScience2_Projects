@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=rows\ columns
+comment0.target=QuiltController(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ QuiltController\r\n\ Creates\ the\ display\ of\ the\ quilt\ (QuiltFrame)\ based\ on\ user\ input.\r\n
+numComments=1
